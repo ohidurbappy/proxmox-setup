@@ -45,11 +45,17 @@ Basic Proxmox setup instructions
  nano /etc/default/grub
  ```
  
- Change the line:
+Change the line:
  
- GRUB_CMDLINE_LINUX="consoleblank=300"
+```
+GRUB_CMDLINE_LINUX="consoleblank=300"
+```
 
+To update the grub
 
+```
+update-grub
+```
 
  
  
