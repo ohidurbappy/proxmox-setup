@@ -58,5 +58,4 @@ update-grub
 ```
 
  
- 
- 
+ Networkchuck video: https://www.youtube.com/watch?v=_u8qTN3cCnQ
