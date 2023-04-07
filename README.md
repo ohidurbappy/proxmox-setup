@@ -57,5 +57,12 @@ To update the grub
 update-grub
 ```
 
+
+To solve auto log out from the web ui
+
+```
+touch /etc/pve/authkey.pub*
+```
+
  
  Networkchuck video: https://www.youtube.com/watch?v=_u8qTN3cCnQ
