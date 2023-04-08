@@ -64,5 +64,11 @@ To solve auto log out from the web ui
 touch /etc/pve/authkey.pub*
 ```
 
+Disable no subscription alert
+
+```
+curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/rickycodes/pve-no-subscription/main/no-subscription-warning.sh | sh
+```
+
  
  Networkchuck video: https://www.youtube.com/watch?v=_u8qTN3cCnQ
